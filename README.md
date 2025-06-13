@@ -1,4 +1,4 @@
-# Hi, I'm Winston 🩷
+## Hi, I'm Winston 🩷
 
 Professionally, I've worked on:
 - An order management system
@@ -13,15 +13,15 @@ I've also made a number of publicly available things:
 
 More complete list at https://winstonpuckett.com
 
-# What I'm working on right now 🔧
+## What I'm working on right now 🔧
 
 I'm fascinated by the idea of a programming language which has no assignment operator. I'm currently, haphazardly, implementing a language so I can try this out. Feel free to take a look if you'd like: https://github.com/winstonpuckett/welang.
 
-# I also have a blog ✏️
+## I also have a blog ✏️
 
 I share what I've learned on [dev.to](https://dev.to/winstonpuckett).
 
-# Isn't your name Bob? 
+## Isn't your name Bob? 
 
 Yep, I go by my middle name for public dev work. Feel free to call me Bob or Winston.
 
