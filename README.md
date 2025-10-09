@@ -1,4 +1,4 @@
-## Hi, I'm Winston 🩷
+## Hi, I'm Ivy 🩷
 
 Professionally, I've worked on:
 - An order management system
